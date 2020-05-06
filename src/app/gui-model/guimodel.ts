@@ -1,6 +1,5 @@
 export class GuiModel {
 
-   
 
     private _guiModel = {
         "application": {
